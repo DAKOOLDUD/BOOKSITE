@@ -125,7 +125,7 @@ body, html {
 
 h1, h2, p, span, a {
     font-family: "museo-sans", helvetica, sans-serif;
-    color: #ff0000;
+    color: rgb(255, 30, 0);
     margin: 0;
     padding: 0;
 }
@@ -215,11 +215,11 @@ INTRO CONTAINER
     font-size: 30px; 
     font-style: italic; 
     text-transform: capitalize;
-    color: #ff0000;
+    color: rgb(0, 162, 255);
 }
 
 .white{
-    color: red;
+    color: rgb(0, 183, 255);
 }
 
 /* ========================
